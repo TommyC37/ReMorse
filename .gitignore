@@ -1,0 +1,67 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+.VENV/
+
+# Distribution files
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and debugging files
+*.log
+*.out
+*.err
+*.bak
+
+# Unit test and coverage results
+.coverage
+.tox/
+.cache/
+.nox/
+pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Environment and configuration files
+.env
+.env.*
+*.ini
+*.cfg
+*.toml
+
+# IDE-specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Docker
+*.pid
+docker-compose.override.yml
+
+# PythonAnywhere settings
+.pythonanywhere/
+
+# Miscellaneous
+*.sqlite3
+*.mypy_cache/
